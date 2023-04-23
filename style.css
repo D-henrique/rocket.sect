@@ -130,10 +130,15 @@ footer p {
   margin: auto;
 }
 
+footer a:hover {
+  color: #00BFA6;
+  transition: 0.2s;
+}
+
 /* Padlock */
 
 #padlock {
   position: fixed;
-  bottom: 0;
-  left: 0;
+  bottom: 20px;
+  left: 20px;
 }

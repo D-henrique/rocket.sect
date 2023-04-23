@@ -29,7 +29,7 @@ Front-end: HTML, CSS
 
 ## 🧩 Resultado Final
 
-Depois da construção feita de acordo com o modelo no Figma, o resultado final pode ser visto nesse **[link](https://d-henrique.github.io/Rocket.sect/)**.
+Depois da construção feita de acordo com o modelo no Figma, o resultado final pode ser visto nesse **[link](https://d-henrique.github.io/rocket.sect/)**.
 
 ## 🧩 Autor
 

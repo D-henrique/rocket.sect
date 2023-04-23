@@ -1,4 +1,4 @@
-# 🧩 Desafio avançado - Recriando layout Rocket.sect 🌎
+# 🧩 Desafio avançado - Recriando layout Rocket.sect 🔒
 
 Este é um projeto fictício de um site de uma empresa de segurança da informação apresentando o seu produto e com o texto todo estilizado. Ele foi desenvolvido como exercício para o aprendizado de HTML e CSS pela RokectSeat.
 

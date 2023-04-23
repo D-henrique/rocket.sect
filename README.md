@@ -15,7 +15,7 @@ Este repositório contém o código criado para o desafio "Rocket.sect" da trilh
 
 O Figma está disponível nesse **[link](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate).** Abaixo você consegue visualizar a carinha da aplicação:
 
-![Layout](Images/layout.jpg)
+![Layout](images/layout.jpg)
 
 ## 🧩 Aprendizados
 
